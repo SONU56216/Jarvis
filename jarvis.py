@@ -29,7 +29,7 @@ except: HAS_CV2=False
 #  PHONE CONTROL via ADB (Android Debug Bridge)
 #  Connect phone via USB with USB Debugging ON
 # ═══════════════════════════════════════════════════
-ADB_PATH = "adb"   # set full path if needed e.g. r"C:\platform-tools\adb.exe"
+ADB_PATH = "********"   # set full path if needed e.g. r"C:\platform-tools\adb.exe"
 
 _phone_monitor_active = False
 _incoming_call_number  = ""
@@ -381,7 +381,7 @@ threading.Thread(target=_phone_monitor_loop, daemon=True).start()
 # ═══════════════════════════════
 #  API KEY
 # ═══════════════════════════════
-GEMINI_API_KEY = "AIzaSy..."   # <-- paste your key
+GEMINI_API_KEY = "AI*******..."   # <-- paste your key
 
 # ═══════════════════════════════
 #  APP PATHS
