@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════╗
-║         JARVIS v8.0 — Advanced AI Copilot         ║
+║         JARVIS v1.0 — Advanced AI Copilot         ║
 ║         Built by: Sonu Kumar Sah                ║
 ╚══════════════════════════════════════════════════╝
 pip install SpeechRecognition pyttsx3 requests pyautogui psutil
