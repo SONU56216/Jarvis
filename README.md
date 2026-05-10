@@ -55,4 +55,4 @@ python jarvis.py
 
 ## Author
 
-Built by Monu / Sonu Kumar Sah 🚀
+Built  Sonu Kumar Sah 🚀
