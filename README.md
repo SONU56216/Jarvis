@@ -30,7 +30,7 @@ It can perform voice commands, manage tasks, play music, control apps, and work 
 Clone the repository:
 
 ```bash id="1bvvnf"
-git clone https://github.com/your-username/NOVA-AI-Assistant.git
+git clone https://github.com/your-username/JARVIS-AI-Assistant.git
 ```
 
 Install required packages:
