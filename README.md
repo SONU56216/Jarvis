@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Version-v8.0-00f5ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v1.0-00f5ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge">
