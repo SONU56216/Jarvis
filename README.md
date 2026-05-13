@@ -66,10 +66,10 @@ The goal of this project is to combine:
 JARVIS/
 │
 ├── jarvis.py
-├── nova_notes.json
-├── nova_tasks.json
-├── nova_habits.json
-├── nova_config.json
+├── jarvis_notes.json
+├── jarvis_tasks.json
+├── jarvis_habits.json
+├── jarvis_config.json
 ├── ROBOTICS_GUIDE.md
 ├── README.md
 └── assets/
