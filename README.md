@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+JARVIS+AI+ASSISTANT+⚡;Advanced+Voice+Controlled+AI;Python+Powered+Automation+System;Future+Robotics+Integration+🤖;Created+by+Sonu+Kumar+Sah" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+JARVIS+AI+COPILOT+v8.0+⚡;Advanced+AI+Voice+Assistant+🤖;Automation+•+AI+•+Productivity;Built+by+Sonu+Kumar+Sah+🚀" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Version-2.0-00F7FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-AI%20Project-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Python-AI%20Assistant-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v8.0-00F7FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/Future-Robotics-orange?style=for-the-badge">
 
 </div>
@@ -15,42 +15,71 @@
 
 # 🌌 What is JARVIS?
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2a2Y2eXlyM2s3djJ5Znl3Z2xjbG5oOHNnNWh4dTFyN3g3YzZ0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-JARVIS is an advanced AI-powered voice assistant built using Python.  
-It is designed to automate tasks, interact with users using voice commands, and evolve toward real robotics integration.
+JARVIS is a futuristic AI-powered voice assistant designed for Windows PCs.
+It listens to your voice, responds intelligently, automates your computer, manages tasks, tracks habits, controls your phone, and much more — all hands-free.
 
-The goal of this project is to combine:
-
-- 🤖 Artificial Intelligence
-- 🎤 Voice Interaction
-- ⚡ Automation
-- 💻 Smart Productivity
-- 🚀 Robotics Technology
-
-<br><br>
+✨ Inspired by futuristic AI systems and smart automation.
 
 ---
 
-# ✨ Main Features
+# ⚡ Core Features
 
 <div align="center">
 
-| Feature | Description |
-|---|---|
-| 🎤 Voice Commands | Control JARVIS using your voice |
-| 🧠 AI Chat | Smart AI conversations |
-| 💻 Desktop Automation | Open apps & automate tasks |
-| 📱 Phone Control | Android ADB integration |
-| 📝 Notes & Tasks | Manage productivity |
-| 🎵 Music System | Play songs & media |
-| 🔥 Robotics Ready | Future robot integration |
+| 🤖 AI Features        | 💻 System Features |
+| --------------------- | ------------------ |
+| Voice Commands        | PC Control         |
+| AI Conversations      | Volume Control     |
+| Smart Memory          | Screenshot Capture |
+| Gemini AI Integration | Shutdown / Restart |
+| Habit Tracking        | App Launcher       |
+| Code Copilot          | Browser Search     |
 
 </div>
 
 ---
 
-# ⚙️ Tech Stack
+# 🎤 Voice Commands
+
+```bash
+"Hey Jarvis"
+"What's the weather?"
+"Play music"
+"Set alarm at 7 AM"
+"Open YouTube"
+"Take a screenshot"
+"Generate Python code"
+"Goodbye Jarvis"
+```
+
+---
+
+# 📱 Smart Phone Control
+
+JARVIS can control Android phones using ADB.
+
+✅ Receive Calls
+✅ Reject Calls
+✅ Phone Battery Status
+✅ Notifications Access
+✅ Wireless ADB Support
+
+---
+
+# 🧠 AI Copilot Features
+
+* Generate Code
+* Explain Code
+* Detect Bugs
+* Improve Programs
+* Run Python Code
+* AI Conversation System
+
+---
+
+# 🛠️ Technologies Used
 
 <div align="center">
 
@@ -60,35 +89,18 @@ The goal of this project is to combine:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-JARVIS/
-│
-├── jarvis.py
-├── jarvis_notes.json
-├── jarvis_tasks.json
-├── jarvis_habits.json
-├── jarvis_config.json
-├── ROBOTICS_GUIDE.md
-├── README.md
-└── assets/
-```
-
----
-
 # 🚀 Installation
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/JARVIS-AI.git
+git clone https://github.com/your-username/JARVIS.git
 ```
 
-## Install Requirements
+## Install Packages
 
 ```bash
-pip install SpeechRecognition pyttsx3 requests pygame pillow
+pip install SpeechRecognition pyttsx3 requests pyautogui psutil pygame google-generativeai pyperclip pillow
 ```
 
 ## Run JARVIS
@@ -99,36 +111,38 @@ python jarvis.py
 
 ---
 
-# 📸 Preview
+# 📂 Project Modules
 
-<div align="center">
-
-<img width="700" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-</div>
-
----
-
-# 🌟 Future Plans
-
-- 🤖 Real Robot Integration
-- 👁️ Face Recognition
-- 🌐 Smart Home Automation
-- 🧠 Better AI Memory
-- 📱 Mobile App Connection
-- 💬 Advanced AI Conversations
+```bash
+jarvis.py
+jarvis_notes.json
+jarvis_tasks.json
+jarvis_habits.json
+jarvis_memory.json
+jarvis_passwords.json
+jarvis_config.json
+```
 
 ---
 
-# 🧠 Developer
+# 🌟 Future Goals
+
+* 🤖 Real Robot Integration
+* 👁️ Face Recognition
+* 🏠 Smart Home Automation
+* 🌐 Web Dashboard
+* 🧠 Advanced AI Memory
+* 📱 Mobile Companion App
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-# 👨‍💻 Sonu Kumar Sah
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SONU56216&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### AI Developer • Python Programmer • Future Robotics Engineer
-
-<img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SONU56216&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -138,8 +152,19 @@ python jarvis.py
 
 <div align="center">
 
-> “I don’t just want to create software.  
-> I want to build intelligent technology that feels alive.”
+> “My goal is to transform JARVIS into a real AI-powered robotics system.”
+
+</div>
+
+---
+
+# 👨‍💻 Developer
+
+<div align="center">
+
+# Sonu Kumar Sah 🚀
+
+AI Developer • Python Programmer • Future Robotics Engineer
 
 </div>
 
