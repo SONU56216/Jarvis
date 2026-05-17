@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=⚡+JARVIS+AI+COPILOT+v8.0+⚡;Next+Generation+AI+Assistant+🤖;Voice+Automation+System+🎤;Built+with+Python+🐍;Future+Robotics+Integration+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=⚡+JARVIS+AI+COPILOT+v1.0+⚡;Next+Generation+AI+Assistant+🤖;Voice+Automation+System+🎤;Built+with+Python+🐍;Future+Robotics+Integration+🚀" />
 
 <br>
 
